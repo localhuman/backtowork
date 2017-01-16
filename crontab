@@ -1,0 +1,1 @@
+*/5 * * * * source /Users/saun0063/Workspace/backtowork/venv/bin/activate && cd /Users/saun0063/Workspace/backtowork && python manage.py tweet  >/dev/null 2>/dev/null
