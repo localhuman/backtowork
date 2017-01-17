@@ -97,6 +97,7 @@ INSULTS = [
     "you tiny fingered, Cheeto-faced, ferret wearing shitgibbon.",
     "YOU WITLESS FUCKING COCKSPLAT!",
     "you Oi, buttplug face!",
+    "you crusty puddle of vomit",
 ]
 
 
