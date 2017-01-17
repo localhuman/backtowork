@@ -23,10 +23,11 @@ class Command(BaseCommand):
             tweets = RepliedTo.objects.filter(twitter_id=id)
 
             if len(tweets):
-                print("already replide to: %s \n" % text)
+#                print("already replide to: %s \n" % text)
+                pass
             else:
                 tweet = author.get_tweet()
-                print("Will tweet: %s " % tweet)
+#                print("Will tweet: %s " % tweet)
 
                 result = author.api.PostUpdate(tweet, in_reply_to_status_id=id)
 
@@ -36,6 +37,5 @@ class Command(BaseCommand):
                 break
 
 
-
-        print("Complete")
+#        print("Complete")
 
