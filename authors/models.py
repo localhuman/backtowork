@@ -30,10 +30,26 @@ POSSIBLE_EMAILS = [
 
 ]
 
-#   WM4xr4kLgQUffDhrjXxtP8gZ
-#   (612) 460-1290
 
 INSULTS = [
+    "you stupid spurting bile fountain",
+    "you bilge-filled leaky bladder",
+    "you greasy shameless panty grabber",
+    "you heinous waste of skin and organs",
+    "you blathering oxygen thief",
+    "you racist pile of buffalo dung",
+    "you pathetic two-bit conman",
+    "you pile of rabid weasels in a skin suit",
+    "you thin-skinned, flailing failure of humanity",
+    "you foamy mass of pond scum",
+    "you slowly melting glacier of shit (thanks to Mallory Ortberg for that one)",
+    "you gangrenous, oozing sore of a man",
+    "you lying sack of ocelot crap",
+    "you wailing overgrown man-baby",
+    "you shambling insult to the art of wigmakers",
+    "you twittering idiot, with your little rat hands",
+    "you yodelling chode",
+    "you only yellow bag of starburts",
     "you ridiculous bloviating asshole",
     "you gibbering shitweasel",
     "you cream-faced babbling fool",
