@@ -13,7 +13,7 @@ class Command(BaseCommand):
 
         author = Author.objects.get(pk=1)
 
-        dtweets = author.api.GetUserTimeline(screen_name='realDonaldTrump',count=20)
+        dtweets = author.api.GetUserTimeline(screen_name='realDonaldTrump',count=3)
 
         for dt in dtweets:
             id = dt.id
